@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+dist/
+
+# ignore all subs except public/static/
+!public/
+public/*
+!public/static/
